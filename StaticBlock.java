@@ -1,6 +1,7 @@
 public class StaticBlock{
 	//static variable
 	static int id = 30;
+        static String name="rama";
 
 	//constructor
 	StaticBlock(){
@@ -14,5 +15,8 @@ public class StaticBlock{
 		System.out.println("static block2");
 		System.out.println("static block3");
 		System.out.println("static block4");
+               System.out.println("id = " + name);
+		
+
 	}
 }
