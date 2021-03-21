@@ -15,7 +15,7 @@ public class StaticBlock{
 		System.out.println("static block2");
 		System.out.println("static block3");
 		System.out.println("static block4");
-               System.out.println("id = " + name);
+               System.out.println("name= " + name);
 		
 
 	}
