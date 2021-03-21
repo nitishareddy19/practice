@@ -16,9 +16,8 @@ public class StaticBlock{
                 System.out.println("static block6");
 		System.out.println("static block7");
 		System.out.println("static block8");
-=======
-<<<<<<< HEAD
-		System.out.println("static block0");
+
+		
                 System.out.println("static block1");
                 System.out.println("static block2");
                 System.out.println("static block3");
