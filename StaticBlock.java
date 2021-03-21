@@ -10,9 +10,11 @@ public class StaticBlock{
 	//static block
 	static{
 		System.out.println("id = " + id);
+		System.out.println("id = " + id);
+		System.out.println("id = " + id);
+		System.out.println("id = " + id);
+		System.out.println("id = " + id);
 		System.out.println("static block1");
-		System.out.println("static block2");
-		System.out.println("static block3");
-		System.out.println("static block4");
+
 	}
 }
